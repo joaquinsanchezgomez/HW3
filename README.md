@@ -2,7 +2,7 @@
 Team members: Jennifer Lavayen, Lauren Done, Hugo Pinto & 
 Joaquin Sanchez Gomez
 
-##Findings
+#Findings
 
 Using the microdata for New York City, we decided to do a 
 value imputation exercise through a KNN model, to estimate 
